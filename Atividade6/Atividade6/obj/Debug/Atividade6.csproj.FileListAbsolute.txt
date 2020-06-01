@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\User\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\User\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\User\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Menu.resources
